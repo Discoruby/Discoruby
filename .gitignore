@@ -3,3 +3,5 @@ Gemfile.lock
 .ruby-gemset
 example/config.yaml
 builds/
+.solargraph.yml
+.rubocop.yml
