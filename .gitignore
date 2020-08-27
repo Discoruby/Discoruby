@@ -1,0 +1,5 @@
+Gemfile.lock
+.ruby-version
+.ruby-gemset
+example/config.yaml
+builds/
